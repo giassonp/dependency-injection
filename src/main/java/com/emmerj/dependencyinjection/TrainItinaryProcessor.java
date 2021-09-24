@@ -1,4 +1,4 @@
-package com.emmerje.dependencyinjection;
+package com.emmerj.dependencyinjection;
 
 import org.springframework.stereotype.Component;
 

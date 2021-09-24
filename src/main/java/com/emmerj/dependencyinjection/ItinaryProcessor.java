@@ -1,4 +1,4 @@
-package com.emmerje.dependencyinjection;
+package com.emmerj.dependencyinjection;
 
 public interface ItinaryProcessor {
 

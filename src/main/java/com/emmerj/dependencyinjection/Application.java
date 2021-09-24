@@ -1,4 +1,4 @@
-package com.emmerje.dependencyinjection;
+package com.emmerj.dependencyinjection;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
