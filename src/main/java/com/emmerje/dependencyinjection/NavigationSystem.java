@@ -1,4 +1,4 @@
-package com.emerje.dependencyinjection;
+package com.emmerje.dependencyinjection;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
